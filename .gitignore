@@ -1,0 +1,11 @@
+node_modules
+.js-out
+dist
+dist-stand
+dist-standalone
+dist-admin
+yarn-error.log
+
+aroma.config.js
+aroma-*.config.js
+.vscode
