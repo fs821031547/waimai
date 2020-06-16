@@ -13,7 +13,7 @@ let rows = []
 const typeArr = ['辣','不辣','微辣'];
 while(Count--){
   let random = Math.random()*100
-  let random1 = Math.random()*3
+  let random1 =Math.round(Math.random()*4)
   
   rows.push({
     name: '苹果' + Count,
